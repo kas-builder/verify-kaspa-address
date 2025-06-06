@@ -34,3 +34,9 @@ Remember, this shortcut will only run when a kaspa address is copied to the clip
 For troubleshooting or tips you can find me on twitter at @brt2412
 
 Support my work: kaspa:qqvmhcyp2cnh0urd8pje6mxqlckpmlfe8ltukxaqrtnd4h7t600rx4lnyuwln
+
+![IMG_1832](https://github.com/user-attachments/assets/c568919f-b9df-443b-9e4b-81f4ea485fcb)
+![IMG_1833](https://github.com/user-attachments/assets/ca9a86aa-8604-48d3-9d4a-7b6e8361b78a)
+![IMG_1834](https://github.com/user-attachments/assets/6cc8bf93-a54a-4143-a146-eec8389c29a2)
+![IMG_1835](https://github.com/user-attachments/assets/1b6520b8-adeb-4de6-b22b-da9f2e1851fc)
+![IMG_1836](https://github.com/user-attachments/assets/a82c9014-75bf-4f98-8dff-0a5824aa00b6)
