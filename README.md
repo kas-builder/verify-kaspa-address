@@ -1,7 +1,7 @@
 # verify-kaspa-address
 Simple one click tool for iPhone users with the action button to verify whether a Kaspa address has ever been used before 
 
-
+download the tool https://www.icloud.com/shortcuts/891e64c39e6b430daa92340e3dadc32f
 
 How to build: 
 
